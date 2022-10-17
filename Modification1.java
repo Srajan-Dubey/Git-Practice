@@ -3,6 +3,6 @@ public class PracticeProject{
      {
         int a=2;
         int b=5;
-        System.out.println("print the value of "+a+b+a*b);
+        System.out.println("print the expression "+a+b+a*b);
      }
 }

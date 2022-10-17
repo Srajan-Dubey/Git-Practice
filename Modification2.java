@@ -3,6 +3,6 @@ public class PracticeProject{
      {
         int a=2;
         int b=5;
-        System.out.println("it is an order to print value of "+a+b+a*b);
+        System.out.println("Expression is "+a+b+a*b);
      }
 }
